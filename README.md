@@ -1,2 +1,2 @@
 # Netflix-Dio
- Clone do Netflix
+ [Clone do Netflix](https://bryanbruzinga.github.io/Netflix-Dio/.)
